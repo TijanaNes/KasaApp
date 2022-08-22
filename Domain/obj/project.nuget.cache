@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DsfX3Q/8eaiFslEr+lO41E7DLx97n+5+g1rEfaXXnUK8GkfqWH44klux0JLrPfOq9bkGitu7//zW23MlZJQ5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Svi Projekti\\ASP\\TijanaNestinac\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janko\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Janko\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Janko\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
